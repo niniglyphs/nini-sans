@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave" format="2">
+  <advance width="497"/>
+  <unicode hex="1EF3"/>
+  <anchor x="248" y="781" name="top"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="263" y="0" name="cedilla"/>
+  <anchor x="267" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="423" y="512" type="line"/>
+      <point x="261" y="80" type="line"/>
+      <point x="74" y="512" type="line"/>
+      <point x="9" y="512" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="196" y="-96" type="line"/>
+      <point x="187" y="-118"/>
+      <point x="166" y="-134"/>
+      <point x="142" y="-134" type="curve"/>
+      <point x="109" y="-134" type="line"/>
+      <point x="109" y="-192" type="line"/>
+      <point x="142" y="-192" type="line"/>
+      <point x="190" y="-192"/>
+      <point x="235" y="-161"/>
+      <point x="252" y="-116" type="curve"/>
+      <point x="487" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="730" type="line"/>
+      <point x="260" y="582" type="line"/>
+      <point x="331" y="582" type="line"/>
+      <point x="235" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>

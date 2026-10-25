@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibreve" format="2">
+  <advance width="291"/>
+  <unicode hex="012C"/>
+  <anchor x="145" y="940" name="top"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="145" y="0" name="cedilla"/>
+  <anchor x="145" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="195" y="704" type="line"/>
+      <point x="95" y="704" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="889" type="curve"/>
+      <point x="191" y="889" type="line"/>
+      <point x="189" y="862"/>
+      <point x="167" y="849"/>
+      <point x="145" y="849" type="curve" smooth="yes"/>
+      <point x="123" y="849"/>
+      <point x="101" y="862"/>
+      <point x="100" y="889" type="curve"/>
+      <point x="10" y="889" type="line"/>
+      <point x="13" y="804"/>
+      <point x="79" y="762"/>
+      <point x="145" y="762" type="curve" smooth="yes"/>
+      <point x="211" y="762"/>
+      <point x="277" y="804"/>
+    </contour>
+  </outline>
+</glyph>

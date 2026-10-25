@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="870"/>
+  <unicode hex="0132"/>
+  <anchor x="440" y="767" name="top"/>
+  <anchor x="440" y="0" name="bottom"/>
+  <anchor x="380" y="0" name="cedilla"/>
+  <anchor x="496" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="658" y="704" type="line"/>
+      <point x="658" y="233" type="line"/>
+      <point x="658" y="160"/>
+      <point x="623" y="107"/>
+      <point x="545" y="107" type="curve" smooth="yes"/>
+      <point x="466" y="107"/>
+      <point x="431" y="159"/>
+      <point x="431" y="233" type="curve"/>
+      <point x="311" y="233" type="line"/>
+      <point x="311" y="229" type="line"/>
+      <point x="311" y="90"/>
+      <point x="403" y="-10"/>
+      <point x="545" y="-10" type="curve" smooth="yes"/>
+      <point x="689" y="-10"/>
+      <point x="778" y="94"/>
+      <point x="778" y="233" type="curve"/>
+      <point x="778" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="line"/>
+      <point x="222" y="704" type="line"/>
+      <point x="102" y="704" type="line"/>
+      <point x="102" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

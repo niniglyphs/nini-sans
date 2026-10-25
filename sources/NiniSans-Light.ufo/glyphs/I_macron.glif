@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="226"/>
+  <unicode hex="012A"/>
+  <anchor x="113" y="887" name="top"/>
+  <anchor x="113" y="0" name="bottom"/>
+  <anchor x="113" y="0" name="cedilla"/>
+  <anchor x="113" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="143" y="704" type="line"/>
+      <point x="83" y="704" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="778" type="line"/>
+      <point x="222" y="836" type="line"/>
+      <point x="3" y="836" type="line"/>
+      <point x="3" y="778" type="line"/>
+    </contour>
+  </outline>
+</glyph>

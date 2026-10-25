@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="664"/>
+  <unicode hex="0176"/>
+  <anchor x="332" y="953" name="top"/>
+  <anchor x="332" y="0" name="bottom"/>
+  <anchor x="332" y="0" name="cedilla"/>
+  <anchor x="332" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="644" y="704" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="332" y="349" type="line"/>
+      <point x="91" y="704" type="line"/>
+      <point x="19" y="704" type="line"/>
+      <point x="302" y="287" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="755" type="line"/>
+      <point x="285" y="755" type="line"/>
+      <point x="332" y="841" type="line"/>
+      <point x="379" y="755" type="line"/>
+      <point x="447" y="755" type="line"/>
+      <point x="366" y="902" type="line"/>
+      <point x="298" y="902" type="line"/>
+    </contour>
+  </outline>
+</glyph>

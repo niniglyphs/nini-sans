@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="2">
+  <advance width="836"/>
+  <unicode hex="1E85"/>
+  <anchor x="418" y="789" name="top"/>
+  <anchor x="418" y="0" name="bottom"/>
+  <anchor x="418" y="0" name="cedilla"/>
+  <anchor x="613" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="360" y="512" type="line"/>
+      <point x="236" y="195" type="line"/>
+      <point x="155" y="512" type="line"/>
+      <point x="32" y="512" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="418" y="332" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="804" y="512" type="line"/>
+      <point x="680" y="512" type="line"/>
+      <point x="599" y="195" type="line"/>
+      <point x="476" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="666" type="curve" smooth="yes"/>
+      <point x="389" y="706"/>
+      <point x="356" y="738"/>
+      <point x="317" y="738" type="curve" smooth="yes"/>
+      <point x="278" y="738"/>
+      <point x="245" y="706"/>
+      <point x="245" y="666" type="curve" smooth="yes"/>
+      <point x="245" y="627"/>
+      <point x="278" y="594"/>
+      <point x="317" y="594" type="curve" smooth="yes"/>
+      <point x="356" y="594"/>
+      <point x="389" y="627"/>
+    </contour>
+    <contour>
+      <point x="519" y="738" type="curve" smooth="yes"/>
+      <point x="479" y="738"/>
+      <point x="447" y="706"/>
+      <point x="447" y="666" type="curve" smooth="yes"/>
+      <point x="447" y="627"/>
+      <point x="479" y="594"/>
+      <point x="519" y="594" type="curve" smooth="yes"/>
+      <point x="558" y="594"/>
+      <point x="591" y="627"/>
+      <point x="591" y="666" type="curve" smooth="yes"/>
+      <point x="591" y="706"/>
+      <point x="558" y="738"/>
+    </contour>
+  </outline>
+</glyph>

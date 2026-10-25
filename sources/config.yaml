@@ -1,0 +1,11 @@
+# gftools builder recipe: `gftools builder sources/config.yaml` builds fonts/ttf and fonts/webfonts from these UFOs.
+sources:
+  - NiniSans-Thin.ufo
+  - NiniSans-Light.ufo
+  - NiniSans-Regular.ufo
+  - NiniSans-SemiBold.ufo
+  - NiniSans-Bold.ufo
+familyName: Nini Sans
+buildVariable: false
+buildOTF: false
+autohintTTF: true

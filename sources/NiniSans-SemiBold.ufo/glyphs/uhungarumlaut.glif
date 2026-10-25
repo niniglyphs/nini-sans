@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut" format="2">
+  <advance width="569"/>
+  <unicode hex="0171"/>
+  <anchor x="279" y="797" name="top"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="331" y="0" name="cedilla"/>
+  <anchor x="443" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="165" y="202" type="curve"/>
+      <point x="165" y="512" type="line"/>
+      <point x="65" y="512" type="line"/>
+      <point x="65" y="202" type="line"/>
+      <point x="65" y="75"/>
+      <point x="152" y="-10"/>
+      <point x="279" y="-10" type="curve" smooth="yes"/>
+      <point x="319" y="-10"/>
+      <point x="358" y="-2"/>
+      <point x="393" y="18" type="curve"/>
+      <point x="393" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="512" type="line"/>
+      <point x="393" y="512" type="line"/>
+      <point x="393" y="202" type="line"/>
+      <point x="393" y="130"/>
+      <point x="351" y="87"/>
+      <point x="279" y="87" type="curve" smooth="yes"/>
+      <point x="207" y="87"/>
+      <point x="165" y="130"/>
+    </contour>
+    <contour>
+      <point x="83" y="588" type="line"/>
+      <point x="187" y="588" type="line"/>
+      <point x="282" y="746" type="line"/>
+      <point x="178" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="746" type="line"/>
+      <point x="276" y="588" type="line"/>
+      <point x="380" y="588" type="line"/>
+      <point x="475" y="746" type="line"/>
+    </contour>
+  </outline>
+</glyph>
