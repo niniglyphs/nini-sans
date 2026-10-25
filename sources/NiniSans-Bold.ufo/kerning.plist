@@ -12528,6 +12528,8 @@
 		<integer>-28</integer>
 		<key>uni02BB</key>
 		<integer>-26</integer>
+		<key>uni02BC</key>
+		<integer>-29</integer>
 		<key>mu</key>
 		<integer>-25</integer>
 		<key>ordfeminine</key>
@@ -13581,6 +13583,8 @@
 		<integer>-54</integer>
 		<key>uni02BB</key>
 		<integer>-52</integer>
+		<key>uni02BC</key>
+		<integer>-55</integer>
 		<key>mu</key>
 		<integer>-52</integer>
 		<key>ordfeminine</key>
@@ -14486,6 +14490,8 @@
 		<integer>-34</integer>
 		<key>uni02BB</key>
 		<integer>-32</integer>
+		<key>uni02BC</key>
+		<integer>-31</integer>
 		<key>mu</key>
 		<integer>-31</integer>
 		<key>ordfeminine</key>
@@ -15121,6 +15127,8 @@
 		<integer>-44</integer>
 		<key>uni02BB</key>
 		<integer>-42</integer>
+		<key>uni02BC</key>
+		<integer>-37</integer>
 		<key>mu</key>
 		<integer>-42</integer>
 		<key>ordfeminine</key>
@@ -15937,6 +15945,8 @@
 		<integer>-23</integer>
 		<key>uni02BB</key>
 		<integer>-21</integer>
+		<key>uni02BC</key>
+		<integer>-20</integer>
 		<key>mu</key>
 		<integer>-23</integer>
 		<key>ordfeminine</key>
@@ -16568,6 +16578,8 @@
 		<integer>-28</integer>
 		<key>uni02BB</key>
 		<integer>-26</integer>
+		<key>uni02BC</key>
+		<integer>-29</integer>
 		<key>mu</key>
 		<integer>-25</integer>
 		<key>ordfeminine</key>
@@ -16713,6 +16725,8 @@
 		<integer>-77</integer>
 		<key>uni02BB</key>
 		<integer>-115</integer>
+		<key>uni02BC</key>
+		<integer>-100</integer>
 		<key>ordfeminine</key>
 		<integer>-98</integer>
 		<key>ordmasculine</key>
@@ -17318,6 +17332,8 @@
 		<integer>-54</integer>
 		<key>uni02BB</key>
 		<integer>-52</integer>
+		<key>uni02BC</key>
+		<integer>-55</integer>
 		<key>mu</key>
 		<integer>-52</integer>
 		<key>ordfeminine</key>
@@ -19033,6 +19049,19 @@
 		<integer>0</integer>
 		<key>jcircumflex</key>
 		<integer>-43</integer>
+	</dict>
+	<key>uni02BC</key>
+	<dict>
+		<key>Icircumflex</key>
+		<integer>-16</integer>
+		<key>idieresis</key>
+		<integer>14</integer>
+		<key>Itilde</key>
+		<integer>-32</integer>
+		<key>itilde</key>
+		<integer>0</integer>
+		<key>ibreve</key>
+		<integer>0</integer>
 	</dict>
 	<key>mu</key>
 	<dict>

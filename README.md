@@ -11,7 +11,7 @@ The em is the 32-unit icon box. Capitals stand on the square keyline (22 units),
 
 - Google Fonts Latin Core: Latin-1, Latin Extended-A, Romanian (Ș ș Ț ț), Welsh (Ẁ Ẃ Ẅ Ỳ), the capital sharp s (ẞ), and
   common punctuation, currency, maths and arrow symbols.
-- Combining marks (U+0300–U+030C, U+0326–U+0328) with `mark`/`mkmk` positioning; capitals take flatter capital marks
+- Combining marks (U+0300–U+030C, U+0326–U+0328, U+0331) with `mark`/`mkmk` positioning; capitals take flatter capital marks
   and i, j and į lose their dots under a mark above (`ccmp`).
 - Kerning (`kern`); proportional figures by default, tabular figures and currency signs (`tnum`).
 - Statically hinted TrueType (ttfautohint), plus WOFF2 for the web.

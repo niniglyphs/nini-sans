@@ -12504,6 +12504,8 @@
 		<integer>-38</integer>
 		<key>uni02BB</key>
 		<integer>-50</integer>
+		<key>uni02BC</key>
+		<integer>-48</integer>
 		<key>mu</key>
 		<integer>-37</integer>
 		<key>ordfeminine</key>
@@ -12894,6 +12896,8 @@
 		<integer>-16</integer>
 		<key>uni02BB</key>
 		<integer>-16</integer>
+		<key>uni02BC</key>
+		<integer>-16</integer>
 	</dict>
 	<key>jcircumflex</key>
 	<dict>
@@ -13016,6 +13020,8 @@
 		<integer>-101</integer>
 		<key>Ygrave</key>
 		<integer>-101</integer>
+		<key>uni02BC</key>
+		<integer>-126</integer>
 		<key>ordfeminine</key>
 		<integer>-118</integer>
 		<key>ordmasculine</key>
@@ -13633,6 +13639,8 @@
 		<integer>-38</integer>
 		<key>uni02BB</key>
 		<integer>-50</integer>
+		<key>uni02BC</key>
+		<integer>-48</integer>
 		<key>mu</key>
 		<integer>-37</integer>
 		<key>ordfeminine</key>
@@ -14234,6 +14242,17 @@
 	<dict>
 		<key>itilde</key>
 		<integer>0</integer>
+	</dict>
+	<key>uni02BC</key>
+	<dict>
+		<key>idieresis</key>
+		<integer>0</integer>
+		<key>itilde</key>
+		<integer>0</integer>
+		<key>imacron</key>
+		<integer>-30</integer>
+		<key>ibreve</key>
+		<integer>-17</integer>
 	</dict>
 	<key>ordfeminine</key>
 	<dict>

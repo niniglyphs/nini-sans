@@ -466,6 +466,7 @@
 	<array>
 		<string>quoteright</string>
 		<string>quotedblright</string>
+		<string>uni02BC</string>
 	</array>
 	<key>public.kern1.hyphen</key>
 	<array>
@@ -1076,6 +1077,7 @@
 	<array>
 		<string>quoteright</string>
 		<string>quotedblright</string>
+		<string>uni02BC</string>
 	</array>
 	<key>public.kern2.hyphen</key>
 	<array>

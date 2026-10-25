@@ -471,6 +471,7 @@
 	<key>public.kern1.quoteright</key>
 	<array>
 		<string>quoteright</string>
+		<string>uni02BC</string>
 	</array>
 	<key>public.kern1.quotedblleft</key>
 	<array>
@@ -1091,6 +1092,7 @@
 	<key>public.kern2.quoteright</key>
 	<array>
 		<string>quoteright</string>
+		<string>uni02BC</string>
 	</array>
 	<key>public.kern2.quotedblleft</key>
 	<array>

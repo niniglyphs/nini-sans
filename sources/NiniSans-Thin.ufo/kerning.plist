@@ -18648,6 +18648,8 @@
 		<integer>-58</integer>
 		<key>uni02BB</key>
 		<integer>-64</integer>
+		<key>uni02BC</key>
+		<integer>-61</integer>
 		<key>mu</key>
 		<integer>0</integer>
 		<key>ordfeminine</key>
@@ -20295,6 +20297,8 @@
 		<integer>-22</integer>
 		<key>uni02BB</key>
 		<integer>-46</integer>
+		<key>uni02BC</key>
+		<integer>-47</integer>
 		<key>mu</key>
 		<integer>-23</integer>
 		<key>ordfeminine</key>
