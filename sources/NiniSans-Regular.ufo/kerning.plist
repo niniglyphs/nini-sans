@@ -267,7 +267,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-20</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-17</integer>
+		<integer>-15</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-14</integer>
 		<key>public.kern2.slash</key>
@@ -566,7 +566,7 @@
 		<key>public.kern2.braceleft</key>
 		<integer>-17</integer>
 		<key>public.kern2.braceright</key>
-		<integer>-15</integer>
+		<integer>-14</integer>
 		<key>public.kern2.slash</key>
 		<integer>-29</integer>
 		<key>public.kern2.asterisk</key>
@@ -1105,7 +1105,7 @@
 		<key>public.kern2.parenright</key>
 		<integer>-39</integer>
 		<key>public.kern2.bracketright</key>
-		<integer>-37</integer>
+		<integer>-36</integer>
 		<key>public.kern2.braceleft</key>
 		<integer>-31</integer>
 		<key>public.kern2.braceright</key>
@@ -1227,8 +1227,6 @@
 		<integer>-24</integer>
 		<key>public.kern2.bracketright</key>
 		<integer>-16</integer>
-		<key>public.kern2.braceleft</key>
-		<integer>-10</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-11</integer>
 		<key>public.kern2.backslash</key>
@@ -1922,7 +1920,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-21</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-12</integer>
+		<integer>-13</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-16</integer>
 		<key>public.kern2.slash</key>
@@ -2043,7 +2041,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-22</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-13</integer>
+		<integer>-14</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-17</integer>
 		<key>public.kern2.slash</key>
@@ -2400,7 +2398,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-24</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-23</integer>
+		<integer>-22</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-19</integer>
 		<key>public.kern2.slash</key>
@@ -2616,7 +2614,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-22</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-24</integer>
+		<integer>-25</integer>
 		<key>public.kern2.asterisk</key>
 		<integer>-16</integer>
 		<key>public.kern2.ampersand</key>
@@ -2749,7 +2747,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-25</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-27</integer>
+		<integer>-29</integer>
 		<key>public.kern2.slash</key>
 		<integer>-60</integer>
 		<key>public.kern2.asterisk</key>
@@ -3155,7 +3153,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-27</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-26</integer>
+		<integer>-25</integer>
 		<key>public.kern2.asterisk</key>
 		<integer>-38</integer>
 		<key>public.kern2.ampersand</key>
@@ -3296,7 +3294,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-39</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-36</integer>
+		<integer>-35</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-33</integer>
 		<key>public.kern2.backslash</key>
@@ -3940,7 +3938,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-50</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-36</integer>
+		<integer>-35</integer>
 		<key>public.kern2.slash</key>
 		<integer>-87</integer>
 		<key>public.kern2.asterisk</key>
@@ -4567,7 +4565,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-48</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-37</integer>
+		<integer>-36</integer>
 		<key>public.kern2.slash</key>
 		<integer>-83</integer>
 		<key>public.kern2.asterisk</key>
@@ -4702,7 +4700,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-21</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-23</integer>
+		<integer>-22</integer>
 		<key>public.kern2.slash</key>
 		<integer>-10</integer>
 		<key>public.kern2.ampersand</key>
@@ -6427,7 +6425,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-10</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-29</integer>
+		<integer>-28</integer>
 		<key>public.kern2.slash</key>
 		<integer>-74</integer>
 		<key>public.kern2.ampersand</key>
@@ -7432,7 +7430,7 @@
 		<key>public.kern2.S</key>
 		<integer>-11</integer>
 		<key>public.kern2.one</key>
-		<integer>-46</integer>
+		<integer>-45</integer>
 		<key>public.kern2.two</key>
 		<integer>-19</integer>
 		<key>public.kern2.three</key>
@@ -7493,7 +7491,7 @@
 		<key>public.kern2.f</key>
 		<integer>-17</integer>
 		<key>public.kern2.j</key>
-		<integer>37</integer>
+		<integer>40</integer>
 		<key>public.kern2.t</key>
 		<integer>-18</integer>
 		<key>public.kern2.v</key>
@@ -7501,17 +7499,17 @@
 		<key>public.kern2.x</key>
 		<integer>-13</integer>
 		<key>public.kern2.y</key>
-		<integer>-15</integer>
+		<integer>-16</integer>
 		<key>public.kern2.z</key>
 		<integer>-15</integer>
 		<key>public.kern2.A</key>
 		<integer>-21</integer>
 		<key>public.kern2.J</key>
-		<integer>-21</integer>
+		<integer>-22</integer>
 		<key>public.kern2.S</key>
-		<integer>-16</integer>
+		<integer>-15</integer>
 		<key>public.kern2.T</key>
-		<integer>-36</integer>
+		<integer>-35</integer>
 		<key>public.kern2.V</key>
 		<integer>-25</integer>
 		<key>public.kern2.W</key>
@@ -7519,15 +7517,17 @@
 		<key>public.kern2.X</key>
 		<integer>-22</integer>
 		<key>public.kern2.Y</key>
-		<integer>-37</integer>
+		<integer>-36</integer>
 		<key>public.kern2.Z</key>
-		<integer>-20</integer>
+		<integer>-19</integer>
 		<key>public.kern2.one</key>
 		<integer>-47</integer>
 		<key>public.kern2.two</key>
 		<integer>-23</integer>
 		<key>public.kern2.three</key>
-		<integer>-24</integer>
+		<integer>-23</integer>
+		<key>public.kern2.four</key>
+		<integer>-13</integer>
 		<key>public.kern2.seven</key>
 		<integer>-30</integer>
 		<key>public.kern2.nine</key>
@@ -7543,11 +7543,11 @@
 		<key>public.kern2.question</key>
 		<integer>-26</integer>
 		<key>public.kern2.questiondown</key>
-		<integer>-26</integer>
+		<integer>-25</integer>
 		<key>public.kern2.quotesingle</key>
-		<integer>-29</integer>
+		<integer>-28</integer>
 		<key>public.kern2.quoteleft</key>
-		<integer>-33</integer>
+		<integer>-32</integer>
 		<key>public.kern2.quoteright</key>
 		<integer>-33</integer>
 		<key>public.kern2.hyphen</key>
@@ -7557,33 +7557,33 @@
 		<key>public.kern2.slash</key>
 		<integer>-19</integer>
 		<key>public.kern2.backslash</key>
-		<integer>-22</integer>
+		<integer>-21</integer>
 		<key>public.kern2.asterisk</key>
 		<integer>-22</integer>
 		<key>public.kern2.guillemotright</key>
 		<integer>-21</integer>
 		<key>public.kern2.jcircumflex</key>
-		<integer>37</integer>
+		<integer>40</integer>
 		<key>public.kern2.uni01EE</key>
-		<integer>-29</integer>
+		<integer>-28</integer>
 		<key>public.kern2.uni01EF</key>
 		<integer>-28</integer>
 		<key>public.kern2.AE</key>
 		<integer>-25</integer>
 		<key>public.kern2.Tbar</key>
-		<integer>-36</integer>
+		<integer>-35</integer>
 		<key>public.kern2.tbar</key>
-		<integer>-15</integer>
+		<integer>-16</integer>
 		<key>public.kern2.napostrophe</key>
 		<integer>-36</integer>
 		<key>public.kern2.uni00B9</key>
-		<integer>-18</integer>
-		<key>public.kern2.uni00B3</key>
 		<integer>-17</integer>
-		<key>public.kern2.onequarter</key>
+		<key>public.kern2.uni00B3</key>
 		<integer>-23</integer>
+		<key>public.kern2.onequarter</key>
+		<integer>-22</integer>
 		<key>public.kern2.threequarters</key>
-		<integer>-27</integer>
+		<integer>-26</integer>
 		<key>public.kern2.quotesinglbase</key>
 		<integer>-39</integer>
 	</dict>
@@ -7680,7 +7680,7 @@
 		<key>public.kern2.parenright</key>
 		<integer>12</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-22</integer>
+		<integer>-21</integer>
 		<key>public.kern2.slash</key>
 		<integer>-54</integer>
 		<key>public.kern2.asterisk</key>
@@ -8101,7 +8101,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-28</integer>
 		<key>public.kern2.braceright</key>
-		<integer>-26</integer>
+		<integer>-27</integer>
 		<key>public.kern2.backslash</key>
 		<integer>-61</integer>
 		<key>public.kern2.asterisk</key>
@@ -8894,7 +8894,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-23</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-27</integer>
+		<integer>-26</integer>
 		<key>public.kern2.asterisk</key>
 		<integer>-16</integer>
 		<key>public.kern2.ampersand</key>
@@ -9191,7 +9191,7 @@
 		<key>public.kern2.parenleft</key>
 		<integer>-48</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-36</integer>
+		<integer>-35</integer>
 		<key>public.kern2.slash</key>
 		<integer>-84</integer>
 		<key>public.kern2.asterisk</key>
@@ -9715,7 +9715,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-39</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-36</integer>
+		<integer>-35</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-33</integer>
 		<key>public.kern2.backslash</key>
@@ -10364,7 +10364,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>55</integer>
 		<key>public.kern2.braceright</key>
-		<integer>41</integer>
+		<integer>42</integer>
 		<key>public.kern2.backslash</key>
 		<integer>59</integer>
 		<key>public.kern2.asterisk</key>
@@ -10477,7 +10477,7 @@
 		<key>public.kern2.bracketright</key>
 		<integer>-21</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-10</integer>
+		<integer>-11</integer>
 		<key>public.kern2.braceright</key>
 		<integer>-16</integer>
 		<key>public.kern2.slash</key>
@@ -10941,7 +10941,7 @@
 		<key>public.kern2.parenright</key>
 		<integer>-11</integer>
 		<key>public.kern2.braceleft</key>
-		<integer>-10</integer>
+		<integer>-14</integer>
 		<key>public.kern2.slash</key>
 		<integer>-50</integer>
 		<key>public.kern2.ampersand</key>
@@ -11558,7 +11558,7 @@
 	<key>braceright</key>
 	<dict>
 		<key>jcircumflex</key>
-		<integer>14</integer>
+		<integer>17</integer>
 	</dict>
 	<key>slash</key>
 	<dict>
@@ -12644,7 +12644,7 @@
 		<key>bracketright</key>
 		<integer>34</integer>
 		<key>braceright</key>
-		<integer>20</integer>
+		<integer>21</integer>
 		<key>slash</key>
 		<integer>-18</integer>
 		<key>backslash</key>
