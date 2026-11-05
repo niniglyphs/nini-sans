@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0496" format="2">
+  <advance width="893"/>
+  <unicode hex="0496"/>
+  <anchor x="447" y="761" name="top"/>
+  <anchor x="447" y="0" name="bottom"/>
+  <anchor x="447" y="0" name="cedilla"/>
+  <anchor x="807" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="864" y="-144" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="636" y="440" type="line"/>
+      <point x="864" y="704" type="line"/>
+      <point x="734" y="704" type="line"/>
+      <point x="497" y="429" type="line"/>
+      <point x="497" y="704" type="line"/>
+      <point x="397" y="704" type="line"/>
+      <point x="397" y="429" type="line"/>
+      <point x="159" y="704" type="line"/>
+      <point x="29" y="704" type="line"/>
+      <point x="257" y="440" type="line"/>
+      <point x="29" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="327" y="359" type="line"/>
+      <point x="397" y="278" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="278" type="line"/>
+      <point x="566" y="359" type="line"/>
+      <point x="752" y="0" type="line"/>
+      <point x="764" y="0" type="line"/>
+      <point x="764" y="-144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="2">
-  <advance width="653"/>
+  <advance width="651"/>
   <unicode hex="0158"/>
   <anchor x="346" y="953" name="top"/>
   <anchor x="346" y="0" name="bottom"/>
@@ -38,13 +38,13 @@
       <point x="398" y="377" type="curve"/>
     </contour>
     <contour>
-      <point x="381" y="902" type="line"/>
       <point x="346" y="838" type="line"/>
       <point x="311" y="902" type="line"/>
       <point x="220" y="902" type="line"/>
       <point x="301" y="755" type="line"/>
       <point x="391" y="755" type="line"/>
       <point x="471" y="902" type="line"/>
+      <point x="381" y="902" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="gdotaccent" format="2">
   <advance width="557"/>
   <unicode hex="0121"/>
-  <anchor x="264" y="717" name="top"/>
+  <anchor x="264" y="737" name="top"/>
   <anchor x="264" y="0" name="bottom"/>
   <anchor x="323" y="0" name="cedilla"/>
   <anchor x="460" y="0" name="ogonek"/>
@@ -53,18 +53,18 @@
       <point x="430" y="362"/>
     </contour>
     <contour>
-      <point x="306" y="624" type="curve" smooth="yes"/>
-      <point x="306" y="647"/>
-      <point x="287" y="666"/>
-      <point x="264" y="666" type="curve" smooth="yes"/>
-      <point x="241" y="666"/>
-      <point x="222" y="647"/>
-      <point x="222" y="624" type="curve" smooth="yes"/>
-      <point x="222" y="602"/>
-      <point x="241" y="582"/>
-      <point x="264" y="582" type="curve" smooth="yes"/>
-      <point x="287" y="582"/>
-      <point x="306" y="602"/>
+      <point x="306" y="644" type="curve" smooth="yes"/>
+      <point x="306" y="666"/>
+      <point x="287" y="686"/>
+      <point x="264" y="686" type="curve" smooth="yes"/>
+      <point x="241" y="686"/>
+      <point x="222" y="666"/>
+      <point x="222" y="644" type="curve" smooth="yes"/>
+      <point x="222" y="621"/>
+      <point x="241" y="602"/>
+      <point x="264" y="602" type="curve" smooth="yes"/>
+      <point x="287" y="602"/>
+      <point x="306" y="621"/>
     </contour>
   </outline>
 </glyph>

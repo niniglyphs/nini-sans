@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-  <advance width="699"/>
+  <advance width="695"/>
   <unicode hex="010E"/>
   <anchor x="368" y="953" name="top"/>
   <anchor x="368" y="0" name="bottom"/>
@@ -30,13 +30,13 @@
       <point x="169" y="626" type="line"/>
     </contour>
     <contour>
-      <point x="403" y="902" type="line"/>
       <point x="368" y="838" type="line"/>
       <point x="333" y="902" type="line"/>
       <point x="242" y="902" type="line"/>
       <point x="322" y="755" type="line"/>
       <point x="413" y="755" type="line"/>
       <point x="493" y="902" type="line"/>
+      <point x="403" y="902" type="line"/>
     </contour>
   </outline>
 </glyph>

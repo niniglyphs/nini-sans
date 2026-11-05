@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis_perispomenicomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-255" y="756" name="_top"/>
+  <anchor x="-255" y="959" name="top"/>
+  <outline>
+    <contour>
+      <point x="-208" y="796" type="curve" smooth="yes"/>
+      <point x="-208" y="808"/>
+      <point x="-218" y="818"/>
+      <point x="-230" y="818" type="curve" smooth="yes"/>
+      <point x="-242" y="818"/>
+      <point x="-252" y="808"/>
+      <point x="-252" y="796" type="curve" smooth="yes"/>
+      <point x="-252" y="784"/>
+      <point x="-242" y="774"/>
+      <point x="-230" y="774" type="curve" smooth="yes"/>
+      <point x="-218" y="774"/>
+      <point x="-208" y="784"/>
+    </contour>
+    <contour>
+      <point x="-48" y="796" type="curve" smooth="yes"/>
+      <point x="-48" y="808"/>
+      <point x="-58" y="818"/>
+      <point x="-70" y="818" type="curve" smooth="yes"/>
+      <point x="-82" y="818"/>
+      <point x="-92" y="808"/>
+      <point x="-92" y="796" type="curve" smooth="yes"/>
+      <point x="-92" y="784"/>
+      <point x="-82" y="774"/>
+      <point x="-70" y="774" type="curve" smooth="yes"/>
+      <point x="-58" y="774"/>
+      <point x="-48" y="784"/>
+    </contour>
+    <contour>
+      <point x="-23" y="908" type="line"/>
+      <point x="-40" y="892"/>
+      <point x="-60" y="878"/>
+      <point x="-85" y="878" type="curve" smooth="yes"/>
+      <point x="-118" y="878"/>
+      <point x="-147" y="897"/>
+      <point x="-181" y="897" type="curve" smooth="yes"/>
+      <point x="-211" y="897"/>
+      <point x="-237" y="880"/>
+      <point x="-259" y="860" type="curve"/>
+      <point x="-246" y="847" type="line"/>
+      <point x="-229" y="863"/>
+      <point x="-209" y="877"/>
+      <point x="-184" y="877" type="curve" smooth="yes"/>
+      <point x="-151" y="877"/>
+      <point x="-121" y="859"/>
+      <point x="-88" y="859" type="curve" smooth="yes"/>
+      <point x="-58" y="859"/>
+      <point x="-32" y="875"/>
+      <point x="-10" y="895" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

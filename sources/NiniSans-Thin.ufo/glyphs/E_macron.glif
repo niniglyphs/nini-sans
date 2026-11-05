@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="2">
-  <advance width="622"/>
+  <advance width="609"/>
   <unicode hex="0112"/>
   <anchor x="342" y="868" name="top"/>
   <anchor x="342" y="0" name="bottom"/>

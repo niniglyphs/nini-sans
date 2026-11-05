@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="2">
-  <advance width="586"/>
+  <advance width="574"/>
   <unicode hex="0139"/>
   <anchor x="322" y="937" name="top"/>
   <anchor x="322" y="0" name="bottom"/>

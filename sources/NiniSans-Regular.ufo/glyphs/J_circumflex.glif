@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="564"/>
+  <advance width="539"/>
   <unicode hex="0134"/>
-  <anchor x="429" y="953" name="top"/>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="252" y="0" name="cedilla"/>
-  <anchor x="292" y="0" name="ogonek"/>
+  <anchor x="420" y="953" name="top"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="242" y="0" name="cedilla"/>
+  <anchor x="282" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="389" y="233" type="line"/>
-      <point x="389" y="146"/>
-      <point x="350" y="68"/>
-      <point x="252" y="68" type="curve" smooth="yes"/>
-      <point x="154" y="68"/>
-      <point x="114" y="145"/>
-      <point x="114" y="233" type="curve"/>
-      <point x="34" y="233" type="line"/>
-      <point x="34" y="229" type="line"/>
-      <point x="34" y="97"/>
-      <point x="112" y="-10"/>
-      <point x="252" y="-10" type="curve" smooth="yes"/>
-      <point x="395" y="-10"/>
-      <point x="469" y="101"/>
-      <point x="469" y="233" type="curve"/>
-      <point x="469" y="704" type="line"/>
-      <point x="389" y="704" type="line"/>
+      <point x="380" y="233" type="line"/>
+      <point x="380" y="146"/>
+      <point x="340" y="68"/>
+      <point x="242" y="68" type="curve" smooth="yes"/>
+      <point x="144" y="68"/>
+      <point x="104" y="145"/>
+      <point x="104" y="233" type="curve"/>
+      <point x="24" y="233" type="line"/>
+      <point x="24" y="229" type="line"/>
+      <point x="24" y="97"/>
+      <point x="102" y="-10"/>
+      <point x="242" y="-10" type="curve" smooth="yes"/>
+      <point x="385" y="-10"/>
+      <point x="460" y="101"/>
+      <point x="460" y="233" type="curve"/>
+      <point x="460" y="704" type="line"/>
+      <point x="380" y="704" type="line"/>
     </contour>
     <contour>
-      <point x="384" y="902" type="line"/>
-      <point x="304" y="755" type="line"/>
-      <point x="394" y="755" type="line"/>
-      <point x="429" y="819" type="line"/>
-      <point x="464" y="755" type="line"/>
-      <point x="555" y="755" type="line"/>
-      <point x="475" y="902" type="line"/>
+      <point x="374" y="902" type="line"/>
+      <point x="294" y="755" type="line"/>
+      <point x="385" y="755" type="line"/>
+      <point x="420" y="819" type="line"/>
+      <point x="455" y="755" type="line"/>
+      <point x="545" y="755" type="line"/>
+      <point x="465" y="902" type="line"/>
     </contour>
   </outline>
 </glyph>

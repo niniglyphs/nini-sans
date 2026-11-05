@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="2">
+  <advance width="542"/>
+  <unicode hex="0396"/>
+  <anchor x="271" y="755" name="top"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="271" y="0" name="cedilla"/>
+  <anchor x="467" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="507" y="704" type="line"/>
+      <point x="35" y="704" type="line"/>
+      <point x="35" y="626" type="line"/>
+      <point x="429" y="626" type="line"/>
+      <point x="35" y="105" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="78" type="line"/>
+      <point x="114" y="78" type="line"/>
+      <point x="507" y="599" type="line"/>
+    </contour>
+  </outline>
+</glyph>

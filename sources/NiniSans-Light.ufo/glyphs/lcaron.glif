@@ -7,17 +7,7 @@
   <anchor x="96" y="0" name="cedilla"/>
   <anchor x="96" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="126" y="768" type="line"/>
-      <point x="66" y="768" type="line"/>
-      <point x="66" y="0" type="line"/>
-      <point x="126" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="167" y="602" type="line"/>
-      <point x="228" y="602" type="line"/>
-      <point x="264" y="768" type="line"/>
-      <point x="202" y="768" type="line"/>
-    </contour>
+    <component base="lcaron.base"/>
+    <component base="lcaron.tick"/>
   </outline>
 </glyph>

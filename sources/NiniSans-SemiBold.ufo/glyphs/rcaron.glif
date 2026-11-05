@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="2">
-  <advance width="372"/>
+  <advance width="361"/>
   <unicode hex="0159"/>
   <anchor x="209" y="797" name="top"/>
   <anchor x="209" y="0" name="bottom"/>
@@ -31,13 +31,13 @@
       <point x="176" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="362" y="746" type="line"/>
-      <point x="246" y="746" type="line"/>
-      <point x="209" y="684" type="line"/>
-      <point x="171" y="746" type="line"/>
-      <point x="55" y="746" type="line"/>
-      <point x="151" y="588" type="line"/>
-      <point x="267" y="588" type="line"/>
+      <point x="209" y="667" type="line"/>
+      <point x="158" y="746" type="line"/>
+      <point x="58" y="746" type="line"/>
+      <point x="159" y="588" type="line"/>
+      <point x="259" y="588" type="line"/>
+      <point x="359" y="746" type="line"/>
+      <point x="259" y="746" type="line"/>
     </contour>
   </outline>
 </glyph>

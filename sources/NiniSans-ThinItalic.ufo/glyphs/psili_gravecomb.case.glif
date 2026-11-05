@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psili_gravecomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-255" y="756" name="_top"/>
+  <anchor x="-255" y="921" name="top"/>
+  <outline>
+    <contour>
+      <point x="-246" y="755" type="line"/>
+      <point x="-229" y="772"/>
+      <point x="-205" y="794"/>
+      <point x="-205" y="820" type="curve" smooth="yes"/>
+      <point x="-205" y="839"/>
+      <point x="-214" y="855"/>
+      <point x="-223" y="870" type="curve"/>
+      <point x="-243" y="870" type="line"/>
+      <point x="-234" y="855"/>
+      <point x="-225" y="839"/>
+      <point x="-225" y="820" type="curve" smooth="yes"/>
+      <point x="-225" y="794"/>
+      <point x="-249" y="772"/>
+      <point x="-266" y="755" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-83" y="870" type="line"/>
+      <point x="-30" y="755" type="line"/>
+      <point x="-7" y="755" type="line"/>
+      <point x="-59" y="870" type="line"/>
+    </contour>
+  </outline>
+</glyph>

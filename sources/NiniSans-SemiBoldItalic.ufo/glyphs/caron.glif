@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="389"/>
+  <unicode hex="02C7"/>
+  <anchor x="259" y="588" name="top"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="145" y="0" name="cedilla"/>
+  <anchor x="145" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="275" y="667" type="line"/>
+      <point x="240" y="746" type="line"/>
+      <point x="140" y="746" type="line"/>
+      <point x="209" y="588" type="line"/>
+      <point x="309" y="588" type="line"/>
+      <point x="440" y="746" type="line"/>
+      <point x="340" y="746" type="line"/>
+    </contour>
+  </outline>
+</glyph>

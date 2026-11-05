@@ -6,6 +6,7 @@
   <anchor x="256" y="0" name="bottom"/>
   <anchor x="305" y="0" name="cedilla"/>
   <anchor x="456" y="0" name="ogonek"/>
+  <anchor x="466" y="512" name="horn"/>
   <outline>
     <contour>
       <point x="66" y="198" type="curve"/>

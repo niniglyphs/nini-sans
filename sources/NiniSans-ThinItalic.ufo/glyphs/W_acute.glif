@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute" format="2">
+  <advance width="993"/>
+  <unicode hex="1E82"/>
+  <anchor x="626" y="921" name="top"/>
+  <anchor x="447" y="0" name="bottom"/>
+  <anchor x="447" y="0" name="cedilla"/>
+  <anchor x="698" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="86" y="704" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="573" y="653" type="line"/>
+      <point x="683" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="1079" y="704" type="line"/>
+      <point x="1057" y="704" type="line"/>
+      <point x="699" y="31" type="line"/>
+      <point x="585" y="704" type="line"/>
+      <point x="579" y="704" type="line"/>
+      <point x="203" y="31" type="line"/>
+      <point x="107" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="642" y="870" type="line"/>
+      <point x="544" y="755" type="line"/>
+      <point x="568" y="755" type="line"/>
+      <point x="665" y="870" type="line"/>
+    </contour>
+  </outline>
+</glyph>

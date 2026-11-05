@@ -53,13 +53,13 @@
       <point x="430" y="362"/>
     </contour>
     <contour>
-      <point x="379" y="730" type="line"/>
-      <point x="311" y="730" type="line"/>
       <point x="264" y="644" type="line"/>
       <point x="217" y="730" type="line"/>
       <point x="149" y="730" type="line"/>
       <point x="230" y="582" type="line"/>
       <point x="298" y="582" type="line"/>
+      <point x="379" y="730" type="line"/>
+      <point x="311" y="730" type="line"/>
     </contour>
   </outline>
 </glyph>

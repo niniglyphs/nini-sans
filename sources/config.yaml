@@ -5,7 +5,13 @@ sources:
   - NiniSans-Regular.ufo
   - NiniSans-SemiBold.ufo
   - NiniSans-Bold.ufo
+  - NiniSans-ThinItalic.ufo
+  - NiniSans-LightItalic.ufo
+  - NiniSans-Italic.ufo
+  - NiniSans-SemiBoldItalic.ufo
+  - NiniSans-BoldItalic.ufo
 familyName: Nini Sans
 buildVariable: false
 buildOTF: false
-autohintTTF: true
+autohintTTF: false
+buildWebfont: false

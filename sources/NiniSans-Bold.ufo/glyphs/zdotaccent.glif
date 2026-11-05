@@ -2,7 +2,7 @@
 <glyph name="zdotaccent" format="2">
   <advance width="544"/>
   <unicode hex="017C"/>
-  <anchor x="272" y="789" name="top"/>
+  <anchor x="272" y="809" name="top"/>
   <anchor x="272" y="0" name="bottom"/>
   <anchor x="272" y="0" name="cedilla"/>
   <anchor x="432" y="0" name="ogonek"/>
@@ -20,18 +20,18 @@
       <point x="492" y="375" type="line"/>
     </contour>
     <contour>
-      <point x="272" y="738" type="curve" smooth="yes"/>
-      <point x="233" y="738"/>
-      <point x="200" y="706"/>
-      <point x="200" y="666" type="curve" smooth="yes"/>
-      <point x="200" y="627"/>
-      <point x="233" y="594"/>
-      <point x="272" y="594" type="curve" smooth="yes"/>
-      <point x="311" y="594"/>
-      <point x="344" y="627"/>
-      <point x="344" y="666" type="curve" smooth="yes"/>
-      <point x="344" y="706"/>
-      <point x="311" y="738"/>
+      <point x="272" y="758" type="curve" smooth="yes"/>
+      <point x="233" y="758"/>
+      <point x="200" y="725"/>
+      <point x="200" y="686" type="curve" smooth="yes"/>
+      <point x="200" y="646"/>
+      <point x="233" y="614"/>
+      <point x="272" y="614" type="curve" smooth="yes"/>
+      <point x="311" y="614"/>
+      <point x="344" y="646"/>
+      <point x="344" y="686" type="curve" smooth="yes"/>
+      <point x="344" y="725"/>
+      <point x="311" y="758"/>
     </contour>
   </outline>
 </glyph>

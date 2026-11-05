@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-164" y="756" name="_top"/>
+  <anchor x="-116" y="1003" name="top"/>
+  <outline>
+    <contour>
+      <point x="-257" y="814" type="curve" smooth="yes"/>
+      <point x="-257" y="760"/>
+      <point x="-213" y="736"/>
+      <point x="-166" y="736" type="curve" smooth="yes"/>
+      <point x="-152" y="736"/>
+      <point x="-138" y="738"/>
+      <point x="-125" y="742" type="curve" smooth="yes"/>
+      <point x="-68" y="760"/>
+      <point x="-36" y="816"/>
+      <point x="-36" y="874" type="curve" smooth="yes"/>
+      <point x="-36" y="928"/>
+      <point x="-80" y="952"/>
+      <point x="-127" y="952" type="curve" smooth="yes"/>
+      <point x="-141" y="952"/>
+      <point x="-155" y="950"/>
+      <point x="-168" y="946" type="curve" smooth="yes"/>
+      <point x="-225" y="928"/>
+      <point x="-257" y="872"/>
+    </contour>
+    <contour>
+      <point x="-175" y="836" type="curve" smooth="yes"/>
+      <point x="-175" y="860"/>
+      <point x="-155" y="875"/>
+      <point x="-139" y="875" type="curve" smooth="yes"/>
+      <point x="-127" y="875"/>
+      <point x="-118" y="868"/>
+      <point x="-118" y="852" type="curve" smooth="yes"/>
+      <point x="-118" y="828"/>
+      <point x="-138" y="813"/>
+      <point x="-154" y="813" type="curve" smooth="yes"/>
+      <point x="-166" y="813"/>
+      <point x="-175" y="820"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="2">
+  <advance width="893"/>
+  <unicode hex="1E80"/>
+  <anchor x="576" y="921" name="top"/>
+  <anchor x="397" y="0" name="bottom"/>
+  <anchor x="397" y="0" name="cedilla"/>
+  <anchor x="610" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="110" y="704" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="503" y="546" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="955" y="704" type="line"/>
+      <point x="869" y="704" type="line"/>
+      <point x="628" y="152" type="line"/>
+      <point x="565" y="704" type="line"/>
+      <point x="493" y="704" type="line"/>
+      <point x="216" y="154" type="line"/>
+      <point x="190" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="870" type="line"/>
+      <point x="534" y="755" type="line"/>
+      <point x="628" y="755" type="line"/>
+      <point x="576" y="870" type="line"/>
+    </contour>
+  </outline>
+</glyph>

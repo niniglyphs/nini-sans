@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="597"/>
+  <advance width="583"/>
   <unicode hex="0141"/>
   <anchor x="302" y="755" name="top"/>
   <anchor x="302" y="0" name="bottom"/>

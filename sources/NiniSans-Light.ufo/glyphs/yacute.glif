@@ -3,7 +3,7 @@
   <advance width="497"/>
   <unicode hex="00FD"/>
   <anchor x="248" y="781" name="top"/>
-  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="331" y="0" name="bottom"/>
   <anchor x="263" y="0" name="cedilla"/>
   <anchor x="267" y="0" name="ogonek"/>
   <outline>
@@ -13,7 +13,6 @@
       <point x="74" y="512" type="line"/>
       <point x="9" y="512" type="line"/>
       <point x="231" y="0" type="line"/>
-      <point x="232" y="0" type="line"/>
       <point x="196" y="-96" type="line"/>
       <point x="187" y="-118"/>
       <point x="166" y="-134"/>

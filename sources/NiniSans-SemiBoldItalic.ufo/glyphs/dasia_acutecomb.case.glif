@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasia_acutecomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-278" y="762" name="_top"/>
+  <anchor x="-278" y="937" name="top"/>
+  <outline>
+    <contour>
+      <point x="-213" y="761" type="line"/>
+      <point x="-226" y="776"/>
+      <point x="-244" y="795"/>
+      <point x="-244" y="816" type="curve" smooth="yes"/>
+      <point x="-244" y="847"/>
+      <point x="-210" y="869"/>
+      <point x="-189" y="886" type="curve"/>
+      <point x="-279" y="886" type="line"/>
+      <point x="-300" y="869"/>
+      <point x="-334" y="847"/>
+      <point x="-334" y="816" type="curve" smooth="yes"/>
+      <point x="-334" y="795"/>
+      <point x="-316" y="776"/>
+      <point x="-303" y="761" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-79" y="886" type="line"/>
+      <point x="-156" y="761" type="line"/>
+      <point x="-59" y="761" type="line"/>
+      <point x="18" y="886" type="line"/>
+    </contour>
+  </outline>
+</glyph>

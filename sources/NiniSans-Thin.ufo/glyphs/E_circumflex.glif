@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="2">
-  <advance width="622"/>
+  <advance width="609"/>
   <unicode hex="00CA"/>
   <anchor x="342" y="953" name="top"/>
   <anchor x="342" y="0" name="bottom"/>
@@ -22,13 +22,13 @@
       <point x="613" y="704" type="line"/>
     </contour>
     <contour>
+      <point x="330" y="902" type="line"/>
       <point x="246" y="755" type="line"/>
       <point x="269" y="755" type="line"/>
       <point x="342" y="882" type="line"/>
       <point x="414" y="755" type="line"/>
       <point x="437" y="755" type="line"/>
       <point x="353" y="902" type="line"/>
-      <point x="330" y="902" type="line"/>
     </contour>
   </outline>
 </glyph>

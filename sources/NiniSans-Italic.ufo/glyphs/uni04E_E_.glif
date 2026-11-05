@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EE" format="2">
+  <advance width="636"/>
+  <unicode hex="04EE"/>
+  <anchor x="442" y="897" name="top"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="157" y="0" name="cedilla"/>
+  <anchor x="173" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="157" y="78" type="curve"/>
+      <point x="114" y="78" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="204" y="0"/>
+      <point x="253" y="29"/>
+      <point x="280" y="67" type="curve"/>
+      <point x="709" y="704" type="line"/>
+      <point x="613" y="704" type="line"/>
+      <point x="339" y="297" type="line"/>
+      <point x="183" y="704" type="line"/>
+      <point x="98" y="704" type="line"/>
+      <point x="284" y="216" type="line"/>
+      <point x="213" y="110" type="line"/>
+      <point x="201" y="93"/>
+      <point x="178" y="78"/>
+    </contour>
+    <contour>
+      <point x="308" y="768" type="line"/>
+      <point x="525" y="768" type="line"/>
+      <point x="540" y="846" type="line"/>
+      <point x="324" y="846" type="line"/>
+    </contour>
+  </outline>
+</glyph>

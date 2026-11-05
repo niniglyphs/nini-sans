@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis_gravecomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-255" y="756" name="_top"/>
+  <anchor x="-255" y="953" name="top"/>
+  <outline>
+    <contour>
+      <point x="-185" y="902" type="line"/>
+      <point x="-124" y="768" type="line"/>
+      <point x="-100" y="768" type="line"/>
+      <point x="-162" y="902" type="line"/>
+    </contour>
+    <contour>
+      <point x="-265" y="796" type="curve" smooth="yes"/>
+      <point x="-265" y="808"/>
+      <point x="-276" y="818"/>
+      <point x="-287" y="818" type="curve" smooth="yes"/>
+      <point x="-299" y="818"/>
+      <point x="-309" y="808"/>
+      <point x="-309" y="796" type="curve" smooth="yes"/>
+      <point x="-309" y="784"/>
+      <point x="-299" y="774"/>
+      <point x="-287" y="774" type="curve" smooth="yes"/>
+      <point x="-276" y="774"/>
+      <point x="-265" y="784"/>
+    </contour>
+    <contour>
+      <point x="9" y="796" type="curve" smooth="yes"/>
+      <point x="9" y="808"/>
+      <point x="-1" y="818"/>
+      <point x="-13" y="818" type="curve" smooth="yes"/>
+      <point x="-25" y="818"/>
+      <point x="-35" y="808"/>
+      <point x="-35" y="796" type="curve" smooth="yes"/>
+      <point x="-35" y="784"/>
+      <point x="-25" y="774"/>
+      <point x="-13" y="774" type="curve" smooth="yes"/>
+      <point x="-1" y="774"/>
+      <point x="9" y="784"/>
+    </contour>
+  </outline>
+</glyph>

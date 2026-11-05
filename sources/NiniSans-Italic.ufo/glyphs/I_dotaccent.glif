@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="254"/>
+  <unicode hex="0130"/>
+  <anchor x="258" y="929" name="top"/>
+  <anchor x="77" y="0" name="bottom"/>
+  <anchor x="77" y="0" name="cedilla"/>
+  <anchor x="79" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="173" y="704" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="255" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="878" type="curve" smooth="yes"/>
+      <point x="209" y="878"/>
+      <point x="186" y="855"/>
+      <point x="186" y="826" type="curve" smooth="yes"/>
+      <point x="186" y="798"/>
+      <point x="209" y="774"/>
+      <point x="238" y="774" type="curve" smooth="yes"/>
+      <point x="266" y="774"/>
+      <point x="290" y="798"/>
+      <point x="290" y="826" type="curve" smooth="yes"/>
+      <point x="290" y="855"/>
+      <point x="266" y="878"/>
+    </contour>
+  </outline>
+</glyph>

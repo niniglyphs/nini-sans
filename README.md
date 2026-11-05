@@ -2,7 +2,7 @@
 
 ![Nini Sans specimen](documentation/NiniSans-specimen.png)
 
-Nini Sans is a grotesk drawn with the pen of Ninicons, an open-source icon set, so that its text and its icons read as one system. Five weights (Thin, Light, Regular, SemiBold, Bold), each matched to a Ninicons icon stroke.
+Nini Sans is a neo-grotesk drawn with the pen of Ninicons, an open-source icon set, so that its text and its icons read as one system. Five weights (Thin, Light, Regular, SemiBold, Bold), each matched to a Ninicons icon stroke.
 Its sibling is [Nini Mono](https://github.com/niniglyphs/nini-mono).
 
 The em is the 32-unit icon box. Capitals stand on the square keyline (22 units), ascenders reach the circle keyline (24) and the x-height is 16, Helvetica's proportion to the capitals; at 16 px every one of these falls on a whole pixel. Bowls are slightly squared ovals, terminals are cut level or plumb as Helvetica's and Geist's are, the a is double-storey and the g single-storey, and the t's foot is the j's hook turned round.

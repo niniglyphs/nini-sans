@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphatonos" format="2">
+  <advance width="660"/>
+  <unicode hex="0386"/>
+  <anchor x="439" y="813" name="top"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="281" y="0" name="cedilla"/>
+  <anchor x="551" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="-32" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="180" y="208" type="line"/>
+      <point x="474" y="208" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="461" y="704" type="line"/>
+      <point x="375" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="591" type="line"/>
+      <point x="460" y="285" type="line"/>
+      <point x="224" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="762" type="line"/>
+      <point x="156" y="595" type="line"/>
+      <point x="242" y="595" type="line"/>
+      <point x="344" y="762" type="line"/>
+    </contour>
+  </outline>
+</glyph>

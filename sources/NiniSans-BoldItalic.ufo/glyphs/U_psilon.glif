@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="2">
+  <advance width="686"/>
+  <unicode hex="03A5"/>
+  <anchor x="442" y="767" name="top"/>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="287" y="0" name="cedilla"/>
+  <anchor x="289" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="282" y="290" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="400" y="271" type="line"/>
+      <point x="749" y="704" type="line"/>
+      <point x="597" y="704" type="line"/>
+      <point x="361" y="411" type="line"/>
+      <point x="239" y="704" type="line"/>
+      <point x="110" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

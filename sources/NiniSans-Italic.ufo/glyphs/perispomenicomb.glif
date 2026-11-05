@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perispomenicomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0342"/>
+  <anchor x="-197" y="583" name="_top"/>
+  <anchor x="-166" y="743" name="top"/>
+  <outline>
+    <contour>
+      <point x="-93" y="692" type="line"/>
+      <point x="-104" y="681"/>
+      <point x="-117" y="670"/>
+      <point x="-133" y="670" type="curve" smooth="yes"/>
+      <point x="-162" y="670"/>
+      <point x="-191" y="688"/>
+      <point x="-224" y="688" type="curve" smooth="yes"/>
+      <point x="-262" y="688"/>
+      <point x="-293" y="668"/>
+      <point x="-319" y="644" type="curve"/>
+      <point x="-277" y="602" type="line"/>
+      <point x="-266" y="612"/>
+      <point x="-253" y="624"/>
+      <point x="-237" y="624" type="curve" smooth="yes"/>
+      <point x="-208" y="624"/>
+      <point x="-179" y="605"/>
+      <point x="-145" y="605" type="curve" smooth="yes"/>
+      <point x="-108" y="605"/>
+      <point x="-77" y="625"/>
+      <point x="-51" y="650" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

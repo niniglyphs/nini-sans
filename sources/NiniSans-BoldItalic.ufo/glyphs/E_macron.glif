@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="2">
+  <advance width="651"/>
+  <unicode hex="0112"/>
+  <anchor x="479" y="937" name="top"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="0" name="cedilla"/>
+  <anchor x="486" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="568" y="116" type="line"/>
+      <point x="193" y="116" type="line"/>
+      <point x="231" y="310" type="line"/>
+      <point x="590" y="310" type="line"/>
+      <point x="613" y="426" type="line"/>
+      <point x="253" y="426" type="line"/>
+      <point x="285" y="588" type="line"/>
+      <point x="659" y="588" type="line"/>
+      <point x="682" y="704" type="line"/>
+      <point x="185" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="770" type="line"/>
+      <point x="569" y="770" type="line"/>
+      <point x="592" y="886" type="line"/>
+      <point x="346" y="886" type="line"/>
+    </contour>
+  </outline>
+</glyph>

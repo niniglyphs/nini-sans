@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="2">
+  <advance width="720"/>
+  <unicode hex="0143"/>
+  <anchor x="489" y="921" name="top"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="0" name="cedilla"/>
+  <anchor x="560" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="211" y="613" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="726" y="704" type="line"/>
+      <point x="665" y="704" type="line"/>
+      <point x="546" y="91" type="line"/>
+      <point x="231" y="704" type="line"/>
+      <point x="167" y="704" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="870" type="line"/>
+      <point x="384" y="755" type="line"/>
+      <point x="455" y="755" type="line"/>
+      <point x="552" y="870" type="line"/>
+    </contour>
+  </outline>
+</glyph>

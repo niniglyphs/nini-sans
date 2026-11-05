@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="2">
-  <advance width="658"/>
+  <advance width="635"/>
   <unicode hex="0164"/>
-  <anchor x="329" y="985" name="top"/>
-  <anchor x="329" y="0" name="bottom"/>
-  <anchor x="329" y="0" name="cedilla"/>
-  <anchor x="329" y="0" name="ogonek"/>
+  <anchor x="317" y="985" name="top"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="317" y="0" name="cedilla"/>
+  <anchor x="317" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="389" y="0" type="line"/>
-      <point x="389" y="588" type="line"/>
-      <point x="614" y="588" type="line"/>
-      <point x="614" y="704" type="line"/>
-      <point x="44" y="704" type="line"/>
-      <point x="44" y="588" type="line"/>
-      <point x="269" y="588" type="line"/>
-      <point x="269" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="588" type="line"/>
+      <point x="602" y="588" type="line"/>
+      <point x="602" y="704" type="line"/>
+      <point x="33" y="704" type="line"/>
+      <point x="33" y="588" type="line"/>
+      <point x="257" y="588" type="line"/>
+      <point x="257" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="368" y="934" type="line"/>
-      <point x="329" y="875" type="line"/>
-      <point x="289" y="934" type="line"/>
-      <point x="147" y="934" type="line"/>
-      <point x="258" y="767" type="line"/>
-      <point x="400" y="767" type="line"/>
-      <point x="511" y="934" type="line"/>
+      <point x="317" y="843" type="line"/>
+      <point x="252" y="934" type="line"/>
+      <point x="142" y="934" type="line"/>
+      <point x="262" y="767" type="line"/>
+      <point x="372" y="767" type="line"/>
+      <point x="493" y="934" type="line"/>
+      <point x="383" y="934" type="line"/>
     </contour>
   </outline>
 </glyph>

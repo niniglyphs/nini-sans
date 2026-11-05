@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="2">
-  <advance width="683"/>
+  <advance width="681"/>
   <unicode hex="0158"/>
   <anchor x="361" y="969" name="top"/>
   <anchor x="361" y="0" name="bottom"/>
@@ -8,7 +8,7 @@
   <anchor x="575" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="195" y="289" type="line"/>
+      <point x="195" y="290" type="line"/>
       <point x="440" y="290" type="line"/>
       <point x="523" y="0" type="line"/>
       <point x="627" y="0" type="line"/>
@@ -35,13 +35,13 @@
       <point x="417" y="386" type="curve"/>
     </contour>
     <contour>
-      <point x="399" y="918" type="line"/>
-      <point x="361" y="857" type="line"/>
-      <point x="324" y="918" type="line"/>
-      <point x="208" y="918" type="line"/>
-      <point x="303" y="761" type="line"/>
-      <point x="419" y="761" type="line"/>
-      <point x="515" y="918" type="line"/>
+      <point x="361" y="839" type="line"/>
+      <point x="311" y="918" type="line"/>
+      <point x="211" y="918" type="line"/>
+      <point x="311" y="761" type="line"/>
+      <point x="411" y="761" type="line"/>
+      <point x="512" y="918" type="line"/>
+      <point x="412" y="918" type="line"/>
     </contour>
   </outline>
 </glyph>

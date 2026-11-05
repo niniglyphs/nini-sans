@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="557"/>
+  <unicode hex="010F"/>
+  <anchor x="356" y="806" name="top"/>
+  <anchor x="199" y="0" name="bottom"/>
+  <anchor x="259" y="0" name="cedilla"/>
+  <anchor x="412" y="0" name="ogonek"/>
+  <outline>
+    <component base="dcaron.base"/>
+    <component base="dcaron.tick"/>
+  </outline>
+</glyph>

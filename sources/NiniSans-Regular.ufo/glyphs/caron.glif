@@ -8,13 +8,13 @@
   <anchor x="168" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="203" y="730" type="line"/>
       <point x="168" y="665" type="line"/>
       <point x="133" y="730" type="line"/>
       <point x="43" y="730" type="line"/>
       <point x="123" y="582" type="line"/>
       <point x="213" y="582" type="line"/>
       <point x="294" y="730" type="line"/>
+      <point x="203" y="730" type="line"/>
     </contour>
   </outline>
 </glyph>

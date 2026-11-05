@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="2">
+  <advance width="586"/>
+  <unicode hex="03A3"/>
+  <anchor x="294" y="761" name="top"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="294" y="0" name="cedilla"/>
+  <anchor x="500" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="39" y="52" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="97" type="line"/>
+      <point x="197" y="97" type="line"/>
+      <point x="391" y="354" type="line"/>
+      <point x="391" y="370" type="line"/>
+      <point x="201" y="607" type="line"/>
+      <point x="550" y="607" type="line"/>
+      <point x="550" y="704" type="line"/>
+      <point x="39" y="704" type="line"/>
+      <point x="39" y="651" type="line"/>
+      <point x="272" y="361" type="line"/>
+    </contour>
+  </outline>
+</glyph>

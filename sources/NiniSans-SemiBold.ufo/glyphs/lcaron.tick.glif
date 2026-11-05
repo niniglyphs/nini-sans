@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.tick" format="2">
+  <advance width="341"/>
+  <outline>
+    <contour>
+      <point x="217" y="602" type="line"/>
+      <point x="319" y="602" type="line"/>
+      <point x="354" y="768" type="line"/>
+      <point x="252" y="768" type="line"/>
+    </contour>
+  </outline>
+</glyph>

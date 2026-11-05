@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="2">
+  <advance width="552"/>
+  <unicode hex="0393"/>
+  <anchor x="411" y="755" name="top"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="61" y="0" name="cedilla"/>
+  <anchor x="62" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="167" y="704" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="217" y="646" type="line"/>
+      <point x="623" y="646" type="line"/>
+      <point x="634" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

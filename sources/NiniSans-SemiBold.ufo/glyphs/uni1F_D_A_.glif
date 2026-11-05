@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDA" format="2">
+  <advance width="454"/>
+  <unicode hex="1FDA"/>
+  <anchor x="189" y="819" name="top"/>
+  <anchor x="189" y="0" name="bottom"/>
+  <anchor x="308" y="0" name="cedilla"/>
+  <anchor x="308" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="358" y="704" type="line"/>
+      <point x="258" y="704" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-21" y="768" type="line"/>
+      <point x="94" y="591" type="line"/>
+      <point x="200" y="591" type="line"/>
+      <point x="86" y="768" type="line"/>
+    </contour>
+  </outline>
+</glyph>

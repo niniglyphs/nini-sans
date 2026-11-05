@@ -2,14 +2,14 @@
 <glyph name="acutecomb" format="2">
   <advance width="0"/>
   <unicode hex="0301"/>
-  <anchor x="-284" y="588" name="_top"/>
-  <anchor x="-284" y="797" name="top"/>
+  <anchor x="-280" y="589" name="_top"/>
+  <anchor x="-280" y="797" name="top"/>
   <outline>
     <contour>
-      <point x="-389" y="588" type="line"/>
-      <point x="-282" y="588" type="line"/>
-      <point x="-180" y="746" type="line"/>
-      <point x="-287" y="746" type="line"/>
+      <point x="-385" y="588" type="line"/>
+      <point x="-278" y="588" type="line"/>
+      <point x="-176" y="746" type="line"/>
+      <point x="-282" y="746" type="line"/>
     </contour>
   </outline>
 </glyph>

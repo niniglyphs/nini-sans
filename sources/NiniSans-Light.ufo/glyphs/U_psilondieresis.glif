@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis" format="2">
+  <advance width="641"/>
+  <unicode hex="03AB"/>
+  <anchor x="320" y="909" name="top"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="0" name="cedilla"/>
+  <anchor x="320" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="350" y="287" type="line"/>
+      <point x="633" y="704" type="line"/>
+      <point x="561" y="704" type="line"/>
+      <point x="320" y="349" type="line"/>
+      <point x="80" y="704" type="line"/>
+      <point x="8" y="704" type="line"/>
+      <point x="290" y="287" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="816" type="curve" smooth="yes"/>
+      <point x="285" y="839"/>
+      <point x="266" y="858"/>
+      <point x="243" y="858" type="curve" smooth="yes"/>
+      <point x="220" y="858"/>
+      <point x="201" y="839"/>
+      <point x="201" y="816" type="curve" smooth="yes"/>
+      <point x="201" y="794"/>
+      <point x="220" y="774"/>
+      <point x="243" y="774" type="curve" smooth="yes"/>
+      <point x="266" y="774"/>
+      <point x="285" y="794"/>
+    </contour>
+    <contour>
+      <point x="397" y="858" type="curve" smooth="yes"/>
+      <point x="374" y="858"/>
+      <point x="355" y="839"/>
+      <point x="355" y="816" type="curve" smooth="yes"/>
+      <point x="355" y="794"/>
+      <point x="374" y="774"/>
+      <point x="397" y="774" type="curve" smooth="yes"/>
+      <point x="420" y="774"/>
+      <point x="439" y="794"/>
+      <point x="439" y="816" type="curve" smooth="yes"/>
+      <point x="439" y="839"/>
+      <point x="420" y="858"/>
+    </contour>
+  </outline>
+</glyph>

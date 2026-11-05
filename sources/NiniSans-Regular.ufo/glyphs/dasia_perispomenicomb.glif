@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasia_perispomenicomb" format="2">
+  <advance width="0"/>
+  <anchor x="-263" y="583" name="_top"/>
+  <anchor x="-263" y="873" name="top"/>
+  <outline>
+    <contour>
+      <point x="-203" y="582" type="line"/>
+      <point x="-219" y="598"/>
+      <point x="-243" y="617"/>
+      <point x="-243" y="641" type="curve" smooth="yes"/>
+      <point x="-243" y="666"/>
+      <point x="-219" y="685"/>
+      <point x="-203" y="700" type="curve"/>
+      <point x="-283" y="700" type="line"/>
+      <point x="-299" y="685"/>
+      <point x="-323" y="666"/>
+      <point x="-323" y="641" type="curve" smooth="yes"/>
+      <point x="-323" y="617"/>
+      <point x="-299" y="598"/>
+      <point x="-283" y="582" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-180" y="822" type="line"/>
+      <point x="-189" y="811"/>
+      <point x="-200" y="800"/>
+      <point x="-216" y="800" type="curve" smooth="yes"/>
+      <point x="-245" y="800"/>
+      <point x="-276" y="819"/>
+      <point x="-310" y="819" type="curve" smooth="yes"/>
+      <point x="-346" y="819"/>
+      <point x="-374" y="800"/>
+      <point x="-396" y="774" type="curve"/>
+      <point x="-346" y="732" type="line"/>
+      <point x="-336" y="743"/>
+      <point x="-326" y="754"/>
+      <point x="-310" y="754" type="curve" smooth="yes"/>
+      <point x="-280" y="754"/>
+      <point x="-250" y="736"/>
+      <point x="-215" y="736" type="curve" smooth="yes"/>
+      <point x="-180" y="736"/>
+      <point x="-152" y="754"/>
+      <point x="-129" y="780" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="2">
-  <advance width="629"/>
+  <advance width="621"/>
   <unicode hex="011A"/>
   <anchor x="334" y="969" name="top"/>
   <anchor x="334" y="0" name="bottom"/>
@@ -22,13 +22,13 @@
       <point x="573" y="704" type="line"/>
     </contour>
     <contour>
-      <point x="372" y="918" type="line"/>
-      <point x="334" y="857" type="line"/>
-      <point x="297" y="918" type="line"/>
-      <point x="181" y="918" type="line"/>
-      <point x="276" y="761" type="line"/>
-      <point x="392" y="761" type="line"/>
-      <point x="488" y="918" type="line"/>
+      <point x="334" y="839" type="line"/>
+      <point x="284" y="918" type="line"/>
+      <point x="184" y="918" type="line"/>
+      <point x="284" y="761" type="line"/>
+      <point x="384" y="761" type="line"/>
+      <point x="485" y="918" type="line"/>
+      <point x="385" y="918" type="line"/>
     </contour>
   </outline>
 </glyph>
